@@ -5,6 +5,7 @@ we will start from the very basics of how computers store numbers in
 binary form, understand bitwise operators, and learn some fundamental
 tricks.
 
+
 ------------------------------------------------------------------------
 
 ## 1. Binary Representation of Numbers

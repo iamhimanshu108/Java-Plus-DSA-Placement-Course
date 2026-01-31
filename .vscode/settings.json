@@ -1,0 +1,7 @@
+{
+    "triggerTaskOnSave.tasks": {
+        "Auto Commit Push Pull": [
+            "**/*"
+        ]
+    }
+}
