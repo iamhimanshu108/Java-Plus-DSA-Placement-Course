@@ -1,21 +1,21 @@
 {
-    "version": "2.0.0",
-    "tasks": [
-        {
-            "label": "Auto Commit Push Pull",
-            "type": "shell",
-            "command": "bash .devcontainer/git-auto.sh",
-            "group": {
-                "kind": "build",
-                "isDefault": false
-            },
-            "presentation": {
-                "echo": false,
-                "reveal": "never",
-                "focus": false,
-                "panel": "shared"
-            },
-            "problemMatcher": []
-        }
-    ]
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Auto Commit Push Pull",
+      "type": "shell",
+      "command": "bash .devcontainer/git-auto.sh",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation": {
+        "echo": false,
+        "reveal": "never",
+        "focus": false,
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ]
 }
