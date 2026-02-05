@@ -1,7 +1,6 @@
 {
-    "triggerTaskOnSave.tasks": {
-        "Auto Commit Push Pull": [
-            "**/*"
-        ]
-    }
+  "triggerTaskOnSave.tasks": {
+    "Auto Commit Push Pull": ["**/*"]
+  },
+  "java.debug.settings.onBuildFailureProceed": true
 }
